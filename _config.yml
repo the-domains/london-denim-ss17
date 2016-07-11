@@ -1,4 +1,3 @@
-layout_spectrum: 0.2603059911634773
 typography_spectrum: 0.29604873107746243
 color:
   brandStrength: 0.5964900269173086
@@ -11,4 +10,11 @@ color:
     - '#F4CB89'
     - '#588C8C'
     - '#011C26'
+layout_spectrum: 0.2603059911634773
+author:
+  name: London Denim
+  email: press@londondenim.com
+  url: www.londondenim.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b3afbaa-091c-4a8b-8403-954a0493f302.jpg
 name: London Denim SS17
